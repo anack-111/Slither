@@ -1,0 +1,24 @@
+{
+  "customs": [
+    {
+      "CustomIndex": 1,
+      "SpriteName": "Duck_001_Head"
+    },
+    {
+      "CustomIndex": 2,
+      "SpriteName": "Duck_Chicken_Head"
+    },
+    {
+      "CustomIndex": 3,
+      "SpriteName": "Duck_Peacock_Head"
+    },
+    {
+      "CustomIndex": 4,
+      "SpriteName": "Duck_Pigeon_Head"
+    },
+    {
+      "CustomIndex": 5,
+      "SpriteName": "Duck_Sparrow_Head"
+    }
+  ]
+}

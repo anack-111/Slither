@@ -1,0 +1,449 @@
+{
+  "ranks": [
+    {
+      "CustomIndex": 1,
+      "name": "Faker",
+      "KillPoint": 1170
+    },
+    {
+      "CustomIndex": 2,
+      "name": "Chovy",
+      "KillPoint": 1626
+    },
+    {
+      "CustomIndex": 3,
+      "name": "ShowMaker",
+      "KillPoint": 284
+    },
+    {
+      "CustomIndex": 4,
+      "name": "Deft",
+      "KillPoint": 1163
+    },
+    {
+      "CustomIndex": 5,
+      "name": "Keria",
+      "KillPoint": 901
+    },
+    {
+      "CustomIndex": 6,
+      "name": "Canyon",
+      "KillPoint": 730
+    },
+    {
+      "CustomIndex": 7,
+      "name": "Zeus",
+      "KillPoint": 115
+    },
+    {
+      "CustomIndex": 8,
+      "name": "Oner",
+      "KillPoint": 1930
+    },
+    {
+      "CustomIndex": 9,
+      "name": "Gumayusi",
+      "KillPoint": 1148
+    },
+    {
+      "CustomIndex": 10,
+      "name": "Peanut",
+      "KillPoint": 1990
+    },
+    {
+      "CustomIndex": 11,
+      "name": "Ruler",
+      "KillPoint": 694
+    },
+    {
+      "CustomIndex": 12,
+      "name": "Scout",
+      "KillPoint": 1046
+    },
+    {
+      "CustomIndex": 13,
+      "name": "Viper",
+      "KillPoint": 528
+    },
+    {
+      "CustomIndex": 14,
+      "name": "Khan",
+      "KillPoint": 643
+    },
+    {
+      "CustomIndex": 15,
+      "name": "Bdd",
+      "KillPoint": 1391
+    },
+    {
+      "CustomIndex": 16,
+      "name": "Uzi",
+      "KillPoint": 1082
+    },
+    {
+      "CustomIndex": 17,
+      "name": "TheShy",
+      "KillPoint": 184
+    },
+    {
+      "CustomIndex": 18,
+      "name": "Rookie",
+      "KillPoint": 1511
+    },
+    {
+      "CustomIndex": 19,
+      "name": "Doinb",
+      "KillPoint": 1694
+    },
+    {
+      "CustomIndex": 20,
+      "name": "JackeyLove",
+      "KillPoint": 1871
+    },
+    {
+      "CustomIndex": 21,
+      "name": "Caps",
+      "KillPoint": 154
+    },
+    {
+      "CustomIndex": 22,
+      "name": "Perkz",
+      "KillPoint": 872
+    },
+    {
+      "CustomIndex": 23,
+      "name": "Rekkles",
+      "KillPoint": 127
+    },
+    {
+      "CustomIndex": 24,
+      "name": "Jankos",
+      "KillPoint": 1731
+    },
+    {
+      "CustomIndex": 25,
+      "name": "Humanoid",
+      "KillPoint": 1317
+    },
+    {
+      "CustomIndex": 26,
+      "name": "Upset",
+      "KillPoint": 1950
+    },
+    {
+      "CustomIndex": 27,
+      "name": "Bjergsen",
+      "KillPoint": 243
+    },
+    {
+      "CustomIndex": 28,
+      "name": "Doublelift",
+      "KillPoint": 1437
+    },
+    {
+      "CustomIndex": 29,
+      "name": "CoreJJ",
+      "KillPoint": 1810
+    },
+    {
+      "CustomIndex": 30,
+      "name": "Impact",
+      "KillPoint": 56
+    },
+    {
+      "CustomIndex": 31,
+      "name": "Bang",
+      "KillPoint": 1303
+    },
+    {
+      "CustomIndex": 32,
+      "name": "Wolf",
+      "KillPoint": 1873
+    },
+    {
+      "CustomIndex": 33,
+      "name": "Score",
+      "KillPoint": 1206
+    },
+    {
+      "CustomIndex": 34,
+      "name": "Mata",
+      "KillPoint": 1971
+    },
+    {
+      "CustomIndex": 35,
+      "name": "Pawn",
+      "KillPoint": 283
+    },
+    {
+      "CustomIndex": 36,
+      "name": "Nuguri",
+      "KillPoint": 46
+    },
+    {
+      "CustomIndex": 37,
+      "name": "BeryL",
+      "KillPoint": 761
+    },
+    {
+      "CustomIndex": 38,
+      "name": "Zeka",
+      "KillPoint": 1408
+    },
+    {
+      "CustomIndex": 39,
+      "name": "Kingen",
+      "KillPoint": 1626
+    },
+    {
+      "CustomIndex": 40,
+      "name": "Pyosik",
+      "KillPoint": 1969
+    },
+    {
+      "CustomIndex": 41,
+      "name": "369",
+      "KillPoint": 1820
+    },
+    {
+      "CustomIndex": 42,
+      "name": "Knight",
+      "KillPoint": 1245
+    },
+    {
+      "CustomIndex": 43,
+      "name": "Kanavi",
+      "KillPoint": 744
+    },
+    {
+      "CustomIndex": 44,
+      "name": "Missing",
+      "KillPoint": 1658
+    },
+    {
+      "CustomIndex": 45,
+      "name": "Meiko",
+      "KillPoint": 1529
+    },
+    {
+      "CustomIndex": 46,
+      "name": "Clearlove",
+      "KillPoint": 903
+    },
+    {
+      "CustomIndex": 47,
+      "name": "Xiaohu",
+      "KillPoint": 1803
+    },
+    {
+      "CustomIndex": 48,
+      "name": "Wei",
+      "KillPoint": 1880
+    },
+    {
+      "CustomIndex": 49,
+      "name": "GALA",
+      "KillPoint": 1008
+    },
+    {
+      "CustomIndex": 50,
+      "name": "Bin",
+      "KillPoint": 402
+    },
+    {
+      "CustomIndex": 51,
+      "name": "Flandre",
+      "KillPoint": 871
+    },
+    {
+      "CustomIndex": 52,
+      "name": "Tian",
+      "KillPoint": 644
+    },
+    {
+      "CustomIndex": 53,
+      "name": "Crisp",
+      "KillPoint": 29
+    },
+    {
+      "CustomIndex": 54,
+      "name": "Light",
+      "KillPoint": 1842
+    },
+    {
+      "CustomIndex": 55,
+      "name": "Tarzan",
+      "KillPoint": 1964
+    },
+    {
+      "CustomIndex": 56,
+      "name": "Lehends",
+      "KillPoint": 1621
+    },
+    {
+      "CustomIndex": 57,
+      "name": "Aiming",
+      "KillPoint": 1018
+    },
+    {
+      "CustomIndex": 58,
+      "name": "Life",
+      "KillPoint": 1011
+    },
+    {
+      "CustomIndex": 59,
+      "name": "Cuzz",
+      "KillPoint": 193
+    },
+    {
+      "CustomIndex": 60,
+      "name": "Rascal",
+      "KillPoint": 56
+    },
+    {
+      "CustomIndex": 61,
+      "name": "Dread",
+      "KillPoint": 1626
+    },
+    {
+      "CustomIndex": 62,
+      "name": "Kiin",
+      "KillPoint": 1335
+    },
+    {
+      "CustomIndex": 63,
+      "name": "Clozer",
+      "KillPoint": 745
+    },
+    {
+      "CustomIndex": 64,
+      "name": "Prince",
+      "KillPoint": 1369
+    },
+    {
+      "CustomIndex": 65,
+      "name": "Bdd",
+      "KillPoint": 1434
+    },
+    {
+      "CustomIndex": 66,
+      "name": "Lava",
+      "KillPoint": 428
+    },
+    {
+      "CustomIndex": 67,
+      "name": "Summit",
+      "KillPoint": 1861
+    },
+    {
+      "CustomIndex": 68,
+      "name": "Teddy",
+      "KillPoint": 322
+    },
+    {
+      "CustomIndex": 69,
+      "name": "Kellin",
+      "KillPoint": 1596
+    },
+    {
+      "CustomIndex": 70,
+      "name": "Doran",
+      "KillPoint": 1512
+    },
+    {
+      "CustomIndex": 71,
+      "name": "Morgan",
+      "KillPoint": 1618
+    },
+    {
+      "CustomIndex": 72,
+      "name": "Peyz",
+      "KillPoint": 1894
+    },
+    {
+      "CustomIndex": 73,
+      "name": "Delight",
+      "KillPoint": 534
+    },
+    {
+      "CustomIndex": 74,
+      "name": "Zeka",
+      "KillPoint": 380
+    },
+    {
+      "CustomIndex": 75,
+      "name": "Kingen",
+      "KillPoint": 901
+    },
+    {
+      "CustomIndex": 76,
+      "name": "Pyosik",
+      "KillPoint": 393
+    },
+    {
+      "CustomIndex": 77,
+      "name": "Deokdam",
+      "KillPoint": 1870
+    },
+    {
+      "CustomIndex": 78,
+      "name": "Karis",
+      "KillPoint": 397
+    },
+    {
+      "CustomIndex": 79,
+      "name": "OnFleek",
+      "KillPoint": 868
+    },
+    {
+      "CustomIndex": 80,
+      "name": "BeryL",
+      "KillPoint": 11
+    },
+    {
+      "CustomIndex": 81,
+      "name": "Ghost",
+      "KillPoint": 1401
+    },
+    {
+      "CustomIndex": 82,
+      "name": "Effort",
+      "KillPoint": 1067
+    },
+    {
+      "CustomIndex": 83,
+      "name": "Canna",
+      "KillPoint": 1911
+    },
+    {
+      "CustomIndex": 84,
+      "name": "Ellim",
+      "KillPoint": 1205
+    },
+    {
+      "CustomIndex": 85,
+      "name": "UmTi",
+      "KillPoint": 1089
+    },
+    {
+      "CustomIndex": 86,
+      "name": "Croco",
+      "KillPoint": 1648
+    },
+    {
+      "CustomIndex": 87,
+      "name": "VicLa",
+      "KillPoint": 124
+    },
+    {
+      "CustomIndex": 88,
+      "name": "Kael",
+      "KillPoint": 1449
+    },
+    {
+      "CustomIndex": 89,
+      "name": "Clear",
+      "KillPoint": 1004
+    }
+  ]
+}

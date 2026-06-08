@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Head
+  m_EditorClassIdentifier: 
+  m_GroupName: Head
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 082e7fdae1d7fc24d8f16eb264d52fe1
+  m_SerializeEntries:
+  - m_GUID: 0cc7ba7d9925cc94781288a7ddaa15e9
+    m_Address: Duck_Chicken_Head.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 156aa71b700f828419594a6bec4a9db4
+    m_Address: Duck_Pigeon_Body.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e4bcf513b8e53a4e8ae02e864568bed
+    m_Address: Duck_Peacock_Head.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e67d2d7c30ab5b44894ae862a015dcb
+    m_Address: Duck_Peacock.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 221ea7b96eaf1ec49adb2a4f5bb6b573
+    m_Address: Duck_Pigeon_Head.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 287b8f9c2d7c32749b8da56d991beacc
+    m_Address: Duck_Mallard_body.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2886bbfbbe665f44b82c5e01f5587ae4
+    m_Address: Duck_Sparrow_Body.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cd552071a361a348bd00736b18bb0d4
+    m_Address: Duck_Peacock_Body.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8575150524a27d34cbb79d5779365705
+    m_Address: Duck_Mallard.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b69da176e1452144bb52d23837a91ea0
+    m_Address: Duck_Mallard_head.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cab6e70004b0be34a86fbcf4f289d9b3
+    m_Address: Duck_001_Body.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d08bc6b5617156d46843746f6a963d37
+    m_Address: Duck_Sparrow.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcfd02d787e45a44d93bcb02c1f03645
+    m_Address: Duck_Chicken_Body.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e03e0994b0c8f8b4aa210f30ef6c176c
+    m_Address: Duck_001.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e822846f0ee780e47ad19929b8d804dc
+    m_Address: Duck_Pigeon.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efcfc4507560b6c48b82b320affbd99d
+    m_Address: Duck_Chicken.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0067d58a7601e749a0558a6987af324
+    m_Address: Duck_Sparrow_Head.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ef3971f4f0e2d5f4f8224ccd46c152de, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8f7ece8ed5a711548951a5fe9a243aeb, type: 2}
+    - {fileID: 11400000, guid: 44ce3c02521586f469f71088e630868b, type: 2}

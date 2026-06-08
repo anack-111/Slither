@@ -1,0 +1,102 @@
+{
+  "accessorys": [
+    {
+      "CustomIndex": 1,
+      "Name": null,
+      "Description": null,
+      "SpriteName": "Default",
+      "Cost": 0
+    },
+    {
+      "CustomIndex": 2,
+      "Name": "에리언 지렁이",
+      "Description": "우리는 평화를 원한다.",
+      "SpriteName": "AC_001",
+      "Cost": 1
+    },
+    {
+      "CustomIndex": 3,
+      "Name": "건담 마스크",
+      "Description": "건담이 되면 1등이 될수도..? ",
+      "SpriteName": "Ch_Duck_Head_001",
+      "Cost": 0
+    },
+    {
+      "CustomIndex": 4,
+      "Name": "머리털",
+      "Description": "나 대머리 아니다.",
+      "SpriteName": "Ch_Duck_Head_002",
+      "Cost": 0
+    },
+    {
+      "CustomIndex": 5,
+      "Name": "닌자복면 ",
+      "Description": "복면쓰면 2배 강해보인다. ",
+      "SpriteName": "Ch_Duck_Head_003",
+      "Cost": 0
+    },
+    {
+      "CustomIndex": 6,
+      "Name": "마법사 안경",
+      "Description": "익스펙토 펙트로놈!",
+      "SpriteName": "Ch_Duck_Head_004",
+      "Cost": 1
+    },
+    {
+      "CustomIndex": 7,
+      "Name": "붕대",
+      "Description": "아프니까 청춘이다.",
+      "SpriteName": "Ch_Duck_Head_005",
+      "Cost": 1
+    },
+    {
+      "CustomIndex": 8,
+      "Name": "빨간 코 루돌푸",
+      "Description": "크리스마스의 기적을 믿어요!",
+      "SpriteName": "Ch_Duck_Head_006",
+      "Cost": 0
+    },
+    {
+      "CustomIndex": 9,
+      "Name": "진짜 루돌푸 세트",
+      "Description": "산타가 찾고 있어요!",
+      "SpriteName": "Ch_Duck_Head_007",
+      "Cost": 1
+    },
+    {
+      "CustomIndex": 10,
+      "Name": "전사의 헬멧",
+      "Description": "변신! 레인저! ",
+      "SpriteName": "Ch_Duck_Head_008",
+      "Cost": 100
+    },
+    {
+      "CustomIndex": 11,
+      "Name": "눈박이 친구",
+      "Description": "우린 친구야!",
+      "SpriteName": "Ch_Duck_Head_009",
+      "Cost": 1
+    },
+    {
+      "CustomIndex": 12,
+      "Name": "파라오의 왕관",
+      "Description": "전설이 깨어나다.",
+      "SpriteName": "Ch_Duck_Head_010",
+      "Cost": 0
+    },
+    {
+      "CustomIndex": 13,
+      "Name": "뽀송뽀송 곰돌이",
+      "Description": "곰돌이 코스프레 중",
+      "SpriteName": "Ch_Duck_Head_011",
+      "Cost": 1
+    },
+    {
+      "CustomIndex": 14,
+      "Name": "파충류의 눈빛",
+      "Description": "냉혈한 포식자의 시선..",
+      "SpriteName": "Ch_Duck_Head_012",
+      "Cost": 1
+    }
+  ]
+}

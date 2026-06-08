@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FoodAltas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d4e6d36f946a2564192c68627410f5ad, type: 3}
+    - {fileID: 2800000, guid: 8e71fe8642f213b45aaa38c460c34f7c, type: 3}
+    - {fileID: 2800000, guid: 5dbfb18eed40db241b383e6ba4426248, type: 3}
+    - {fileID: 2800000, guid: 2302b5ee18e53334dabda46eb90d0a99, type: 3}
+    - {fileID: 2800000, guid: d9a003b65d22f5b469a52b7e9241c7b0, type: 3}
+    - {fileID: 2800000, guid: 5fc3dc967e08e83488f2a6b829439ab8, type: 3}
+    - {fileID: 2800000, guid: e3bb3ec1e04ef784d92a1fb9e93ea5f7, type: 3}
+    - {fileID: 2800000, guid: 483f0b0ac1fb2d540b1921f6b93ce7a0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - e3bb3ec1e04ef784d92a1fb9e93ea5f7: 21300000
+    - 8e71fe8642f213b45aaa38c460c34f7c: 21300000
+    - 5fc3dc967e08e83488f2a6b829439ab8: 21300000
+    - d9a003b65d22f5b469a52b7e9241c7b0: 21300000
+    - 483f0b0ac1fb2d540b1921f6b93ce7a0: 21300000
+    - 5dbfb18eed40db241b383e6ba4426248: 21300000
+    - 2302b5ee18e53334dabda46eb90d0a99: 21300000
+    - d4e6d36f946a2564192c68627410f5ad: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e3bb3ec1e04ef784d92a1fb9e93ea5f7, type: 3}
+  - {fileID: 21300000, guid: 8e71fe8642f213b45aaa38c460c34f7c, type: 3}
+  - {fileID: 21300000, guid: 5fc3dc967e08e83488f2a6b829439ab8, type: 3}
+  - {fileID: 21300000, guid: d9a003b65d22f5b469a52b7e9241c7b0, type: 3}
+  - {fileID: 21300000, guid: 483f0b0ac1fb2d540b1921f6b93ce7a0, type: 3}
+  - {fileID: 21300000, guid: 5dbfb18eed40db241b383e6ba4426248, type: 3}
+  - {fileID: 21300000, guid: 2302b5ee18e53334dabda46eb90d0a99, type: 3}
+  - {fileID: 21300000, guid: d4e6d36f946a2564192c68627410f5ad, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Food_Pink
+  - Food_Mint
+  - Food_Edit
+  - Food_Yellow
+  - Food_blue
+  - Food_Purple
+  - Food_Red
+  - Food_Orange
+  m_RenderDataMap: {}
+  m_Tag: FoodAltas
+  m_IsVariant: 0

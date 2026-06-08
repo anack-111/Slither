@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Accessory
+  m_EditorClassIdentifier: 
+  m_GroupName: Accessory
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 06de90d220763f246a974d2396dd2310
+  m_SerializeEntries:
+  - m_GUID: 17c8c334c8504be4aa5e965d145a248a
+    m_Address: Ch_Duck_Head_009.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41e784d0ebdd6874e8fd8998fcf523ee
+    m_Address: Ch_Duck_Head_008.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45eca91e5e77a4d44917f6c36f94191a
+    m_Address: Ch_Duck_Head_011.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49759535c5d94e94f9b306a012e5626c
+    m_Address: Ch_Duck_Head_002.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54bf3d6d93ca9614db6faa5320ff439e
+    m_Address: Ch_Duck_Head_007.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 665f58e222dec3c4dbf7f6004dabf962
+    m_Address: Ch_Duck_Head_012.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84ad86875dcf32044b915e22086fa70e
+    m_Address: AC_002.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96d4c49c8058f174eb7c55ea886802a2
+    m_Address: Ch_Duck_Head_010.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a71af0f273c22374d833eb7759a0a1f1
+    m_Address: Ch_Duck_Head_003.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae3667396109e174c9bbd074c5d823cf
+    m_Address: AC_001.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0efc760e6ef77049bff8314863b1f3e
+    m_Address: Ch_Duck_Head_006.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd246fac67ba12647829041674ab8ccf
+    m_Address: Ch_Duck_Head_005.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e26426c423f22ef44ae96d7c2e60ccd9
+    m_Address: Ch_Duck_Head_001.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f01625c314e8a3f4db864ad504582a30
+    m_Address: AC_003.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3107be443298424ebe8cf9a9a841b85
+    m_Address: Ch_Duck_Head_004.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ef3971f4f0e2d5f4f8224ccd46c152de, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 32a41d0b57721944a9f92db985db537a, type: 2}
+    - {fileID: 11400000, guid: 4e86d7b3837075644b3985815b8429ab, type: 2}

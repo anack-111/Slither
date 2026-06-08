@@ -1,0 +1,28 @@
+{
+  "customchilds": [
+    {
+      "CustomIndex": 1,
+      "SpriteName": "Duck_002"
+    },
+    {
+      "CustomIndex": 2,
+      "SpriteName": "Duck_Chicken_002"
+    },
+    {
+      "CustomIndex": 3,
+      "SpriteName": "Duck_Mallard_002"
+    },
+    {
+      "CustomIndex": 4,
+      "SpriteName": "Duck_Peacock_002"
+    },
+    {
+      "CustomIndex": 5,
+      "SpriteName": "Duck_Pigeon_002"
+    },
+    {
+      "CustomIndex": 6,
+      "SpriteName": "Duck_Sparrow_002"
+    }
+  ]
+}

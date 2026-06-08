@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_GUID: 9bb0223a5ded0a54a80e037414cb272d
+  m_SerializeEntries:
+  - m_GUID: 06cce3f209c88e545a863b34f0734435
+    m_Address: UI_CharacterSlot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 191672aaf85c4b9428c00d12ce2b91a0
+    m_Address: UI_Joystick
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20e0ee5f8c9a8c4499949dcfe0733b61
+    m_Address: UI_LobbyScene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25bbba7948609ee45a3d89016c9707c3
+    m_Address: Sign
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35d913a21e18a1049b289e14889ece69
+    m_Address: Combo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3870913671115414ebc9838e3fb24a54
+    m_Address: UI_SettingPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d4e194122a3fee4d957d590f1c65ad7
+    m_Address: UI_AccessoryPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a6824fb02f36e44185d3038cb7dc020
+    m_Address: UI_Toast
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 652f9bb3db261e34399b1bc45e53574c
+    m_Address: UI_CustomPopupPrev
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ca68272f89df304aa184d2fdc171682
+    m_Address: UI_PiecePopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7de0e94e6a218b345a406012446dc1bb
+    m_Address: UI_PieceSlot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80c53064e456ecf4880ea21b0530a2e0
+    m_Address: UI_CustomPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89685f269b9d1cd4cb30647791673aa8
+    m_Address: UI_AccessoryItem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a116e7e4196129242bc4061a256d5bfe
+    m_Address: UI_RankInfo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b30cd80b574fff94db6333c1e80a44f5
+    m_Address: UI_PlayerInfoPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b41cd3f5c21ff484d91c37b3b084a52d
+    m_Address: UI_UpgradePopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6d578a1bc0cd7c4681763f0c79b6de3
+    m_Address: UI_GameOver
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c35b916c099de074cb25b9367cbc5f6a
+    m_Address: UI_Rank
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df2c9ee9f61198b4e8e725e02653c348
+    m_Address: UI_CharacterPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e09f12408cba3ec4e8a1a097823a5da9
+    m_Address: UI_CustomItem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc0f05ac5933fef438db18b949ff6f29
+    m_Address: UI_RankPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ef3971f4f0e2d5f4f8224ccd46c152de, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 11e8049c3576806449e77fa058f116f7, type: 2}
+    - {fileID: 11400000, guid: a7277bd2e5f6bb14eacb4c6e51a31651, type: 2}

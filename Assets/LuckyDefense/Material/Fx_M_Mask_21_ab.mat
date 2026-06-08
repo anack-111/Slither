@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Fx_M_Mask_21_ab
+  m_Shader: {fileID: 10721, guid: 0000000000000000f000000000000000, type: 0}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _ALPHABLEND_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_0e6da524e8694c7d900527f4e94bf6c3:
+        m_Texture: {fileID: 2800000, guid: 6f2bd1fb3a7ec4616b4311f171db577d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_1a743f47cfbb44f4bea6f0f2ec5e1500:
+        m_Texture: {fileID: 2800000, guid: 0b7957ea4c7481d4d9d29a01ff7cdedc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_8c084184321446ba8dec312176444d97:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_a591622daa9c4f55b97d590c218b5c93:
+        m_Texture: {fileID: 2800000, guid: 527c95613bca85848915dbe782a76284, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_ccfb34df763d41799a8bdbd48801ea6d:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_ec775057f4dc417f8510d2067a55f679:
+        m_Texture: {fileID: 2800000, guid: 527c95613bca85848915dbe782a76284, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 5e8d73de8734d134383ab476526a7d1f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_009d5f8f7df442d59b0105e99bf5a491: 1
+    - Vector1_059edf377932452e9c27059908120571: 0
+    - Vector1_0a1cc049e7ca4da698d9e869df0c7a7c: 1
+    - Vector1_0f6be6472cec416d91367e00b7a1c4d0: 1
+    - Vector1_11bb20dc649247f597cca9770fa9c68e: 1
+    - Vector1_529ba048158348c4aa58067e3a6a494d: 0
+    - Vector1_7b728ea2b1a04108bbe818f8d7a034df: 1
+    - Vector1_a71807cf3542439485a46e145b159bd7: 1
+    - Vector1_cfa35beb59d145f3addc4ca0006b44e3: 0
+    - Vector1_e1f13172e1594d0fbdb8302d3d68d8f4: 1
+    - Vector1_eaf95cfc11ba49ae89777f84d20677c2: 0
+    - _BlendOp: 0
+    - _BumpScale: 1
+    - _CameraFadingEnabled: 0
+    - _CameraFarFadeDistance: 2
+    - _CameraNearFadeDistance: 1
+    - _ColorMode: 0
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DistortionBlend: 0.5
+    - _DistortionEnabled: 0
+    - _DistortionStrength: 1
+    - _DistortionStrengthScaled: 0
+    - _DstBlend: 1
+    - _EmissionEnabled: 0
+    - _FlipbookMode: 0
+    - _LightingEnabled: 0
+    - _Mode: 4
+    - _SoftParticlesEnabled: 0
+    - _SoftParticlesFarFadeDistance: 1
+    - _SoftParticlesNearFadeDistance: 0
+    - _SrcBlend: 5
+    - _ZWrite: 0
+    m_Colors:
+    - Color_17425d4970154f42bb49e1d6fcac300b: {r: 0, g: 0, b: 0, a: 1}
+    - Color_1e42d9b3caff402ca13fca526fbc1abf: {r: 0, g: 0, b: 0, a: 1}
+    - Color_5587044e1a04466091950cf60cd22651: {r: 0, g: 0, b: 0, a: 1}
+    - Vector2_2c0581ab45b84609acd88283475f7056: {r: 1, g: 1, b: 0, a: 0}
+    - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorAddSubDiff: {r: 1, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
