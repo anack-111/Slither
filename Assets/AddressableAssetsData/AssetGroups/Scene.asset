@@ -13,18 +13,10 @@ MonoBehaviour:
   m_Name: Scene
   m_EditorClassIdentifier: 
   m_GroupName: Scene
-  m_Data:
-    m_SerializedData: []
   m_GUID: 7565be073730e6341b4bc2fe4aba7714
   m_SerializeEntries:
   - m_GUID: 48b066f507735cc4199179b50aa599d2
     m_Address: UI_GameScene
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ff2fc24a84732034599df23a3592b6f7
-    m_Address: UI_LobbyScene
     m_ReadOnly: 0
     m_SerializedLabels:
     - PreLoad
