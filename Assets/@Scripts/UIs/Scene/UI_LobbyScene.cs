@@ -32,9 +32,7 @@ public class UI_LobbyScene : UI_Scene
         CustomButton,
         SettingButton,
         //BodyButton,
-        RankButton,
-        QuickMatchButton,
-        PrivateMatchButton,
+        RankButton
     }
 
     enum Texts
@@ -63,9 +61,6 @@ public class UI_LobbyScene : UI_Scene
     UI_PlayerInfoPopup _PlayerInfoPopup;
     UI_SettingPopup _uiSettingPopup;
     UI_RankPopup _uiRankPopup;
-    UI_QuickMatchPopup _uiQuickMatchPopup;
-    UI_PrivateMatchPopup _uiPrivateMatchPopup;
-    UI_PrivateMatchRoomPopup _uiPrivateMatchRoomPopup;
 
     private void Awake()
     {
@@ -99,24 +94,16 @@ public class UI_LobbyScene : UI_Scene
         _PlayerInfoPopup = Managers.UI.ShowPopupUI<UI_PlayerInfoPopup>();
         _uiSettingPopup = Managers.UI.ShowPopupUI<UI_SettingPopup>();
         _uiRankPopup = Managers.UI.ShowPopupUI<UI_RankPopup>();
-        _uiQuickMatchPopup = Managers.UI.ShowPopupUI<UI_QuickMatchPopup>();
-        _uiPrivateMatchPopup = Managers.UI.ShowPopupUI<UI_PrivateMatchPopup>();
-        _uiPrivateMatchRoomPopup = Managers.UI.ShowPopupUI<UI_PrivateMatchRoomPopup>();
 
 
         GetButton((int)Buttons.CustomButton).gameObject.BindEvent(OnClickCustomButton);
         GetButton((int)Buttons.SettingButton).gameObject.BindEvent(OnClickSettingButton);
-        GetButton((int)Buttons.QuickMatchButton).gameObject.BindEvent(OnClickQuickMatchButton);
-        GetButton((int)Buttons.PrivateMatchButton).gameObject.BindEvent(OnClickPrivateMatchButton);
 
         _uiCustomPopup.gameObject.SetActive(false);
         _uiUpgradePopup.gameObject.SetActive(false);
         _PlayerInfoPopup.gameObject.SetActive(false);
         _uiSettingPopup.gameObject.SetActive(false);
         _uiRankPopup.gameObject.SetActive(false);
-        _uiQuickMatchPopup.gameObject.SetActive(false);
-        _uiPrivateMatchPopup.gameObject.SetActive(false);
-        _uiPrivateMatchRoomPopup.gameObject.SetActive(false);
 
         _uiSettingPopup.OnClose += RotateSetting;
         _uiCustomPopup.OnCloseButton += Refresh;
@@ -237,23 +224,6 @@ public class UI_LobbyScene : UI_Scene
 
         // 애니메이션 완료 후 _isAnimating을 false로 설정
         _isAnimating = false;
-    }
-
-    private void OnClickQuickMatchButton()
-    {
-        Managers.Sound.PlayButtonClick();
-        LobbyMatchMakingManager.Instance.StartQuickMatch();
-    }
-
-    private void OnClickPrivateMatchButton()
-    {
-        Managers.Sound.PlayButtonClick();
-        if (_uiPrivateMatchPopup.gameObject.activeSelf)
-        {
-            _uiPrivateMatchPopup.gameObject.SetActive(false);
-            return;
-        }
-        _uiPrivateMatchPopup.gameObject.SetActive(true);
     }
 
     private void OnClickSettingButton()
